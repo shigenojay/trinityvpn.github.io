@@ -1,0 +1,85 @@
+{
+  "Servers" : [ {
+    "Category" : 1,
+    "DomainOrIP" : "206.189.144.27",
+    "Flag" : "sg",
+    "Name" : "Singapore VIP 1(Non-Torrent)"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "206.189.145.187",
+    "Flag" : "sg",
+    "Name" : "Singapore VIP 2(Non-Torrent)"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "206.189.145.31",
+    "Flag" : "sg",
+    "Name" : "Singapore Premium 1 (Non-Torrent)"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "206.189.158.253",
+    "Flag" : "sg",
+    "Name" : "Singapore Premium 2 (Non-Torrent)"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "206.189.145.55",
+    "Flag" : "sg",
+    "Name" : "Singapore Premium 3 (Non-Torrent)"
+  } ],
+  "Payloads" : [ {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "/yrXJhxA3zTFt+67pAztRyz0S3zj6UlxyqaZSgDsmpfb7QmAiKsT/3f88k8a7gM+aanr7a25z09ljAXWRW+wwA==",
+    "Name" : "Globe/TM 1 (GoSurf Promo)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Use Any GoSurf Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "XB20na5p5PgIbIP+QTgLEh5azsnK0E5I/96VUAMKN6DaYJaD9payZS22sBpF9WhnoTzQAdDmgtz1YO5oiCcVYg==",
+    "Name" : "Globe/TM 2 (GoSurf Promo)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Use Any GoSurf Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "bMm6vET+brFd5M6YYIK64MKPs33D2aYXYoFFAUaMbJD69Pw2knwj/RdQ1EGaa3nB",
+    "Name" : "Sun 1 (Tu Promo)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Need Any Tu Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "L5DaqJl9ubKUQuR0pFlcdE80ep3lbHxa3Ui/1gAsl0rAgyDChQ8XnnrdFm5HpPbt",
+    "Name" : "Sun 2 (Tu Promo)",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : false,
+  "GuiFlags" : true,
+  "Changelogs" : "<strong>What's New?Trinity VPN</strong><br><br>",
+  "Version" : 1.2
+}
